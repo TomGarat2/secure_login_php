@@ -39,7 +39,7 @@ SecureLogin est un projet PHP sécurisée permettant aux utilisateurs de s'inscr
 
 ## Configuration
 
-Les paramètres de session et de base de données sont configurés dans les fichiers `src/config.php` et `src/init_session.php`. (Pour des mesures de sécurité évidente il faut déplacer le fichier config.php en dehors du répertoire www de wamp et donc modifier les routes en conséquence. j'ai donc placer le fichier config.php dans le dossier config qui lui devra être déplacé.)
+Les paramètres de session et de base de données sont configurés dans les fichiers `src/config.php` et `src/init_session.php`. (Pour des mesures de sécurité évidente il faut déplacer le fichier config.php en dehors du répertoire www de wamp et donc modifier les routes en conséquence. J'ai donc placé le fichier config.php dans le dossier config qui lui, va devoir être déplacé.)
 
 ### Configuration de la base de données
 
