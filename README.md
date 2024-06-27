@@ -16,7 +16,7 @@ SecureLogin est un projet PHP sécurisée permettant aux utilisateurs de s'inscr
 
 1. **Clonez le dépôt sur votre machine locale.**
     ```sh
-    git clone https://github.com/votre-utilisateur/securelogin.git
+    git clone https://github.com/TomGarat2/secure_login_php.git
     ```
 
 2. **Accédez au répertoire du projet.**
